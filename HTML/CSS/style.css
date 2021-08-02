@@ -1,0 +1,25 @@
+body {
+background: rgb(77, 142, 249);
+background: -webkit-linear-gradient(77deg, rgb(77, 142, 249) 26%, rgb(159, 94, 79) 100%);
+background: -o-linear-gradient(77deg, rgb(77, 142, 249) 26%, rgb(159, 94, 79) 100%);
+background: -ms-linear-gradient(77deg, rgb(77, 142, 249) 26%, rgb(159, 94, 79) 100%);
+background: linear-gradient(77deg, rgb(77, 142, 249) 26%, rgb(159, 94, 79) 100%); 
+}
+
+#h1_1 {
+	text-align: center;
+	font-family:fantasy;
+	font-size: 30px;
+}
+
+p {
+	font-size: 17px;
+	font-family: serif;
+	color:#620000;
+}
+
+#teg_a {
+	color:black;
+	border:solid;
+	margin-left: 10px;
+}
